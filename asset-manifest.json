@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio-tutorial/static/css/main.bc4a55b3.chunk.css",
-    "main.js": "/portfolio-tutorial/static/js/main.90f702eb.chunk.js",
-    "main.js.map": "/portfolio-tutorial/static/js/main.90f702eb.chunk.js.map",
+    "main.css": "/portfolio-tutorial/static/css/main.bc87e462.chunk.css",
+    "main.js": "/portfolio-tutorial/static/js/main.a7ccc297.chunk.js",
+    "main.js.map": "/portfolio-tutorial/static/js/main.a7ccc297.chunk.js.map",
     "runtime-main.js": "/portfolio-tutorial/static/js/runtime-main.be31536d.js",
     "runtime-main.js.map": "/portfolio-tutorial/static/js/runtime-main.be31536d.js.map",
-    "static/js/2.8ee5b095.chunk.js": "/portfolio-tutorial/static/js/2.8ee5b095.chunk.js",
-    "static/js/2.8ee5b095.chunk.js.map": "/portfolio-tutorial/static/js/2.8ee5b095.chunk.js.map",
+    "static/js/2.76b9e85f.chunk.js": "/portfolio-tutorial/static/js/2.76b9e85f.chunk.js",
+    "static/js/2.76b9e85f.chunk.js.map": "/portfolio-tutorial/static/js/2.76b9e85f.chunk.js.map",
     "index.html": "/portfolio-tutorial/index.html",
-    "precache-manifest.645971e5872563549ebce68c8b890d4c.js": "/portfolio-tutorial/precache-manifest.645971e5872563549ebce68c8b890d4c.js",
+    "precache-manifest.f381d2a65eb5fdbec0e6ec32dde08b2c.js": "/portfolio-tutorial/precache-manifest.f381d2a65eb5fdbec0e6ec32dde08b2c.js",
     "service-worker.js": "/portfolio-tutorial/service-worker.js",
-    "static/css/main.bc4a55b3.chunk.css.map": "/portfolio-tutorial/static/css/main.bc4a55b3.chunk.css.map",
-    "static/js/2.8ee5b095.chunk.js.LICENSE.txt": "/portfolio-tutorial/static/js/2.8ee5b095.chunk.js.LICENSE.txt",
+    "static/css/main.bc87e462.chunk.css.map": "/portfolio-tutorial/static/css/main.bc87e462.chunk.css.map",
+    "static/js/2.76b9e85f.chunk.js.LICENSE.txt": "/portfolio-tutorial/static/js/2.76b9e85f.chunk.js.LICENSE.txt",
     "static/media/ContactPage.css": "/portfolio-tutorial/static/media/bg-contact-page.87b0dd61.svg",
     "static/media/ProjectsPage.css": "/portfolio-tutorial/static/media/bg-projects-page.182996c2.svg",
     "static/media/SkillsPage.css": "/portfolio-tutorial/static/media/bg-skills-page.e5852b8c.svg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.be31536d.js",
-    "static/js/2.8ee5b095.chunk.js",
-    "static/css/main.bc4a55b3.chunk.css",
-    "static/js/main.90f702eb.chunk.js"
+    "static/js/2.76b9e85f.chunk.js",
+    "static/css/main.bc87e462.chunk.css",
+    "static/js/main.a7ccc297.chunk.js"
   ]
 }
